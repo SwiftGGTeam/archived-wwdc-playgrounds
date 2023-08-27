@@ -7,13 +7,13 @@ import ChenYizhouImg from '../assets/members/ChenYizhou.png'
 import CuiyiImg from '../assets/members/Cuiyi.png'
 import MaYilingImg from '../assets/members/MaYiling.png'
 import RenYujieImg from '../assets/members/RenYujie.png'
-import XiangHuiImg from '../assets/members/Xianghui.png'
-import XiaoJianweiImg from '../assets/members/Xiaojianwei.png'
+import XiangHuiImg from '../assets/members/XiangHui.png'
+import XiaoJianweiImg from '../assets/members/XiaoJianwei.png'
 import XuZhengImg from '../assets/members/XuZheng.png'
 import YuTielinImg from '../assets/members/YuTielin.png'
 import ZhangSiqiImg from '../assets/members/ZhangSiqi.png'
 import ZhangYangyangImg from '../assets/members/ZhangYangyang.png'
-import ZhengYidongImg from '../assets/members/Zhengyidong.png'
+import ZhengYidongImg from '../assets/members/ZhengYidong.png'
 
 const avatars = [
   ChenYizhouImg, CuiyiImg, MaYilingImg, RenYujieImg, XiangHuiImg, XiaoJianweiImg, XuZhengImg, YuTielinImg, ZhangSiqiImg, ZhangYangyangImg, ZhengYidongImg

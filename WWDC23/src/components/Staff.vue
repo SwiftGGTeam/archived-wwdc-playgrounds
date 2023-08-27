@@ -5,8 +5,8 @@ import { useI18n } from 'vue-i18n';
 
 import ChenYizhouImg from '../assets/members/ChenYizhou.png'
 import MaYilingImg from '../assets/members/MaYiling.png'
-import XiangHuiImg from '../assets/members/Xianghui.png'
-import XiaoJianweiImg from '../assets/members/Xiaojianwei.png'
+import XiangHuiImg from '../assets/members/XiangHui.png'
+import XiaoJianweiImg from '../assets/members/XiaoJianwei.png'
 import XuZhengImg from '../assets/members/XuZheng.png'
 import ZhangYangyangImg from '../assets/members/ZhangYangyang.png'
 

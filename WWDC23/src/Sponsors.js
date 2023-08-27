@@ -9,7 +9,7 @@ const sponsors = [
     name: 'SwiftGG',
     desc: '',
     logo: swiftggLogo,
-    link: 'https://swift.gg'
+    link: 'https://swiftgg.team'
   },
   {
     name: 'XR 基地',
