@@ -1,0 +1,218 @@
+{
+  "switchLang": "Switch to EN",
+  "date1st": "2023年, 6 月 5 日至",
+  "date2nd": " 11 日",
+  "locationInNav": "北京, 中国",
+
+  "theBigTitle": "Welcome to<br>SwiftGG-WWDC.Playground",
+  "pgIntroP1": "北京时间 2023 年 6 月 5 日至 10 日，<a href='https://swiftgg.team'><strong>SwiftGG</strong></a>， <a href='https://xreality.zone'><strong>XR 基地</strong></a>，<a href='https://www.tsalon.tech/'><strong>T 沙龙</strong></a>，<a href='https://sspai.com/'><strong>少数派</strong></a>和<a href='https://www.boxueio.com'><strong>泊学</strong></a>会组织为期一周的丰富多彩的社区活动。在这些活动中，你能抢鲜了解 Apple 平台，技术和工具的最新动态，还有机会与国内外的技术专家和其他开发者互动，以上活动均免费。",
+  "pgIntroP2": "今年的活动将保持微信视频号和B站两个直播渠道，同时创建讨论群方便创作者交流和沟通。此外，今年还特别增加了线下活动环节 --- \"WWDC之夜\"，将在北京、上海、深圳举行。活动当天将邀请当地的开发者，设计师等不同行业的精英共聚一堂，与大家一同感受非同反响的 WWDC 23。",
+
+  "speakersLabel": "活动嘉宾",
+  "speakersValue": "26",
+  "peopleLabel": "参与人数",
+  "peopleValue": "500,000+",
+  "platformLabel": "活动平台",
+  "platformValue": "哔哩哔哩 & 微信",
+  "locationLabel": "活动地点",
+  "locationValue": "北京 / 深圳 / 上海",
+
+  "scheduleTitle": "为期五天的日程安排覆盖了 Apple 技术生态中最受开发者关注的话题",
+  "scheduleDescription": "今年，我们同时安排了线上和线下活动。欢迎所有对 Apple 新技术感兴趣的小伙伴加入我们。",
+
+  "offlineScheduleTitle": "欢迎大家来我们的 WWDC 之夜现场，一起看看热闹，聊聊门道。",
+  "offlineScheduleDescription": "今年，我们在首次在北京、深圳和上海安排了 3 场线下聚会，方便大家更好地认识和交流。",
+
+  "joinOfflineActivity": "点击这里报名",
+  "topicLabel": "活动主题",
+  "activityLabel": "活动形式",
+  "activityDateTimeLabel": "活动时间",
+
+  "offline_place_label": "活动场地",
+  "offline_datetime_label": "活动时间",
+  
+  "offline_loc_0": "北京场",
+  "offline_datetime_0": "2023 年 6 月 5 日 23:00",
+  "offline_place_0": "北三环西路甲 18 号大钟寺中坤广场 C 座 1 号楼 f3-17 报告厅",
+
+  "offline_loc_1": "深圳场",
+  "offline_datetime_1": "2023 年 6 月 5 日 23:00",
+  "offline_place_1": "梅林街道中康路 136 号深圳新一代产业园 2 栋 20 楼",
+
+  "offline_loc_2": "上海场",
+  "offline_datetime_2": "2023 年 6 月 5 日 23:00",
+  "offline_place_2": "上海市徐汇区田林路 130 号 20 号楼 (氪空间田林坊社区)",  
+  
+  "sche_date0": "6月6日",
+  "sche_summary0": "无论你是否熬夜看了直播，听听大家的 WWDC23 Keynote 的观后感吧。",
+  "sche_slot0_activity0": "哔哩哔哩 & 微信视频号直播",
+  "sche_slot0_dateTime0": "20:00 - 21:30 CST",
+  "sche_slot0_topic0": "WWDC23 的第一印象",
+  
+  "sche_date1": "6月7日",
+  "sche_summary1": "今年的各种 beta 版本，是否足够让你冲动呢？有第一时间安装么？体验如何呢？",
+  "sche_slot0_activity1": "哔哩哔哩 & 微信视频号直播",
+  "sche_slot0_dateTime1": "20:00 - 21:30 CST",
+  "sche_slot0_topic1": "系统新上手 & 体验初印象",
+  
+  "sche_date2": "6月8日",
+  "sche_summary2": "一起说说下 WWDC23 上发布的各种新\"玩意儿\"的把玩体验吧。",
+  "sche_slot0_activity2": "哔哩哔哩 & 微信视频号直播",
+  "sche_slot0_dateTime2": "20:00 - 21:30 CST",
+  "sche_slot0_topic2": "新技术、新特性、新机会",
+  
+  "sche_date3": "6月9日",
+  "sche_summary3": "一起来聊聊今年的 one more thing 吧。合格么？有惊艳到你么？",
+  "sche_slot0_activity3": "哔哩哔哩 & 微信视频号直播",
+  "sche_slot0_dateTime3": "20:00 - 21:30 CST",
+  "sche_slot0_topic3": "Apple 的 one more thing",
+  
+  "sche_date4": "6月10日",
+  "sche_summary4": "回顾 WWDC 23, 看到的，用上的，想到的，兴奋的，失望的，都来说说。",
+  "sche_slot0_activity4": "哔哩哔哩 & 微信视频号直播",
+  "sche_slot0_dateTime4": "20:00 - 21:30 CST",
+  "sche_slot0_topic4": "回顾 WWDC23",
+
+  "speaker_label": "活动嘉宾",
+  "speaker_slogan": "今年，这些 Apple 社区的演讲者、贡献者、教育者以及从业者将和大家分享他们的 WWDC23 印象 (按姓氏拼音排序)。",
+
+  "daiming_name": "戴铭",
+  "daiming_desc": "iOS 开发者，喜欢 Coding、画画和写作。",
+
+  "fufu_name": "芙芙 (FF)",
+  "fufu_desc": "数码视频频道：<i>芙芙灵机一动</i>主播。",
+
+  "guoyahang_name": "郭亚航 (Yves)",
+  "guoyahang_desc": "<i>平底锅揽件指南</i> 运营者，也在负责 iOS 壁纸应用 Cuto。",
+
+  "hezhenghao_name": "何正浩 (Hzao)",
+  "hezhenghao_desc": "北京邮电大学，网络安全专业，目前大二。Swift Student Challenge  获奖者。",
+
+  "huangyishan_name": "黃逸杉 (一三)",
+  "huangyishan_desc": "iOS 開發者，<i>weak self</i> podcast 共同主持人。",
+
+  "huojie_name": "霍捷 (Jay Huo)",
+  "huojie_desc": "iOS 开发者，Swifter，会点 Python，Rust。金陵子弟香江客，目前在香港 <i>Lalamove</i> 负责司机端 iOS App。",
+
+  "panbohang_name": "潘博航 (脑潘)",
+  "panbohang_desc": "（实名上网）VR 开发者，<i>VRplay</i> 社区发起人，<i>IndieMatters</i> 电台主播。",
+
+  "wangmengke_name": "王梦珂 (后厂女工小王)",
+  "wangmengke_desc": "开发者，养狗，做了个 App 叫<i>好事发生</i>。",
+
+  "wutao_name": "吴涛 (Eric Woo)",
+  "wutao_desc": "MBA，人工智能博士在读，苹果生态独立开发者、创业者。知名作品<i>像素天气</i>、<i>Pixel 3D</i>、<i>AI Paper Writer</i>等。",
+
+  "wuzhuoqiang_name": "吳卓強",
+  "wuzhuoqiang_desc": "<i>Sorted³</i> 聯合創辦人。資深 iOS / macOS 工程師。",
+
+  "xuchenyang_name": "许辰扬 (Platy)",
+  "xuchenyang_desc": "少数派编辑，会员项目策划。好泛读，求甚解。",
+
+  "xuhaifeng_name": "许海峰 (苹果 API 搬运工)",
+  "xuhaifeng_desc": "ARKit 开发者，热爱写文章的程序员。",
+
+  "xuyang_name": "徐杨 (东坡肘子)",
+  "xuyang_desc": "iOS 开发者，技术博主。",
+
+  "xiangyilin_name": "相怡林 (Allen)",
+  "xiangyilin_desc": "MR 社交游戏创业 founder，8年VR骨灰级玩家，戴过设备坐地铁上飞机，相信XR会改变世界。",
+
+  "yingjunjiu_name": "应骏赳 (JJ Ying)",
+  "yingjunjiu_desc": "UI 設計師，<i>Anyway.FM</i> 播客主播。",
+
+  "yuankai_name": "员凯 (Kay)",
+  "yuankai_desc": "端侧开发，坚信XR会带来很多有趣的改变，写有《ARKit开发实战》一书，喜欢摩旅游历的地理爱好者。",
+
+  "zengyiying_name": "曾奕穎 (波肥)",
+  "zengyiying_desc": "iOS 開發者，<i>weak self</i> podcast 共同主持人。",
+
+  "zhangjiafu_name": "张嘉夫 (Joseph)",
+  "zhangjiafu_desc": "独立开发者，<i>ChatPDF (iOS)</i>、<i>AI 头像</i>、<i>语音合成助手</i>、<i>Anki 备忘录</i>和<i>生词本作者</i>。",
+
+  "zhangpeng_name": "张鹏 (Roc Zhang)",
+  "zhangpeng_desc": "独立开发者，也在 TikTok 做 iOS 开发。",
+
+  "zhangtao_name": "张涛 (老麦)",
+  "zhangtao_desc": "科技内容平台少数派创始人，<i>Tron 开发者计划</i>发起人。",
+
+  "zhangyiyuan_name": "张奕源 (Nick)",
+  "zhangyiyuan_desc": "少数派编辑，少数派 Prime 会员负责人",
+
+  "zhaomingyi_name": "赵明亿 (Kyle)",
+  "zhaomingyi_desc": "多年科技媒体行业编辑，曾在 36Kr、ifanr、网易等任职。",
+
+  "zhoukaiwen_name": "周楷雯 (Kevin)",
+  "zhoukaiwen_desc": "<i>「小记」「50音起源」「捧读」</i> 作者。<i>「PRODUCTER 让产品从 0 到 1 」</i>的作者。",
+
+  "zhangyuchen_name": "张宇辰",
+  "zhangyuchen_desc": "AR开发者，HoloKit主程。",
+
+  "channels_label": "直播和活动地址",
+  "channels_label_desc": "今年，WWDC23 期间不仅每晚有直播，我们还安排了线下聚会以及方便大家交流技术细节的在线聊天室，欢迎大家来玩儿。",
+
+  "channel_bilibili": "官方直播间 1",
+  "channel_bilibili_desc": "6 月 6 日 20:00 开始",
+
+  "channel_xr_wechat1": "官方公众号",
+  "channel_xr_wechat_desc1": "关注了解每日活动行程",
+
+  "channel_tsalon_wechat": "Playground 官方群",
+  "channel_tsalon_wechat_desc": "输入 wwdc23 进入官方群",
+
+  "channel_xr_wechat": "官方直播间 2",
+  "channel_xr_wechat_desc": "6 月 6 日 20:00 开始",
+
+  "sponsor_label": "活动赞助商",
+  "sponsor_desc": "感谢我们出色的合作伙伴，因为他们，WWDC23.playground 仍旧可以对所有用户免费开放。",
+
+  "team_label": "活动团队",
+  "team_desc": "本次活动相关的任何问题，欢迎邮件联系我们: ",
+
+  "chenyizhou_name": "陈奕舟",
+  "chenyizhou_social": "https://github.com/IanIsMyUsername",
+  "chenyizhou_desc": "SwiftGG 翻译组成员",
+
+  "cuiyi_name": "崔轶 (11)",
+  "cuiyi_social": "https://github.com/puretears",
+  "cuiyi_desc": "做了这个网站的人",
+
+  "mayiling_name": "马一凌 (10)",
+  "mayiling_social": "",
+  "mayiling_desc": "泊学网合伙人",
+
+  "renyujie_name": "任宇杰 (御姐)",
+  "renyujie_social": "https://github.com/OneeMe",
+  "renyujie_desc": "XR 基地发起人",
+
+  "xianghui_name": "向辉",
+  "xianghui_social": "https://github.com/Ryan-BetterMe",
+  "xianghui_desc": "SwiftGG 翻译组成员",
+
+  "xiaojianwei_name": "肖坚伟 (轻舟)",
+  "xiaojianwei_social": "https://github.com/hiETsang",
+  "xiaojianwei_desc": "SwiftGG 翻译组成员",
+
+  "eyrefree_name": "EyreFree",
+  "eyrefree_social": "https://github.com/EyreFree",
+  "eyrefree_desc": "开源爱好者",
+
+  "yutielin_name": "余铁林",
+  "yutielin_social": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NDIxOTA2MA==&action=getalbum&album_id=1614632007735541770&scene=173&from_msgid=2247488628&from_itemidx=1&count=3&nolastread=1#wechat_redirect",
+  "yutielin_desc": "",
+
+  "zhangsiqi_name": "张思琦",
+  "zhangsiqi_social": "https://github.com/SketchK",
+  "zhangsiqi_desc": "XR 基地发起人",
+
+  "zhangyangyang_name": "张阳阳",
+  "zhangyangyang_social": "",
+  "zhangyangyang_desc": "SwiftGG 翻译组成员",
+
+  "zhengyidong_name": "郑宜东 (MM)",
+  "zhengyidong_social": "https://github.com/mmoaay",
+  "zhengyidong_desc": "T 技术沙龙负责人",
+
+  "staff_label": "工作人员",
+  "staff_desc": "感谢以下会务组同学的辛苦工作。"
+}

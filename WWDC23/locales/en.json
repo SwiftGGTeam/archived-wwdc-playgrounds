@@ -1,0 +1,221 @@
+{
+  "switchLang": "切换到中文",
+  "date1st": "05-",
+  "date2nd": "11 of June, 2023",
+  "locationInNav": "Beijing, CN",
+
+  "theBigTitle": "<span class='text-4xl'>Welcome to</span><br><span class='text-orange-600'>SwiftGG-WWDC.Playground</span>",
+  "pgIntroP1": "From June 5th to 10th, 2023, <a href='https://swiftgg.team'><strong>SwiftGG</strong></a>, <a href='http://xreality.zone'><strong>XReality.Zone</strong></a>, <a href='https://www.tsalon.tech/'><strong>T-Salon</strong></a>, <a href='https://sspai.com/'><strong>SSPai</strong></a> and <a href='https://www.boxueio.com'><strong>Boxue</strong></a> will jointly organize a week-long community event, offering a variety of engaging activities. Participants can seize the opportunity to explore the latest trends, techniques, and tools of Apple platforms, as well as interact with technology experts and developers from around the world, all for free.",
+  "pgIntroP2": "This year's event will continue to feature two livestream channels on WeChat Video and Bilibili, and also create discussion groups to facilitate communication among creators. Additionally, there will be a new offline event segment, namely \"WWDC Night\", which will take place in cities including Beijing, Shanghai, Shenzhen. On the day of the event, local developers and designers from various industries will be invited to come together to experience the unprecedented excitement of WWDC 23.",
+  "speakersLabel": "Speakers",
+  "speakersValue": "26",
+  "peopleLabel": "People Attending",
+  "peopleValue": "500,000+",
+  "platformLabel": "Platform",
+  "platformValue": "Bilibili & WeChat",
+  "locationLabel": "Location",
+  "locationValue": "Beijing / Shenzhen / Shanghai",
+
+  "scheduleTitle": "Our five-day schedule covers the most popular topics in Apple ecosystem among developers",
+  "scheduleDescription": "This year, we arrange both online and offline events, welcoming all people to join us.",
+
+  "offlineScheduleTitle": "Welcome everyone to our WWDC Night, where we'll enjoy the event and discuss the ins and outs together.",
+  "offlineScheduleDescription": "This year, for the first time, we have arranged 3 offline meetups in Beijing, Shenzhen, and Shanghai to facilitate better understanding and communication among everyone.",
+
+  "joinOfflineActivity": "Sign up",
+  "topicLabel": "Topics",
+  "activityLabel": "Activity",
+  "activityDateTimeLabel": "Datetime",
+
+  "offline_place_label": "Location",
+  "offline_datetime_label": "Datetime",
+  
+  "offline_loc_0": "Beijing",
+  "offline_datetime_0": "23:00, June 5 CST",
+  "offline_place_0": "18 Jia, Beisanhuan West Road, Dakzongsi Zhongkun Plaza, Building C, Room F3-17, Report Hall.",
+
+  "offline_loc_1": "Shenzhen",
+  "offline_datetime_1": "23:00, June 5 CST",
+  "offline_place_1": "136 Zhongkang Road, Meilin Street, Building 2, 20th Floor, Shenzhen New Generation Industrial Park.",
+
+  "offline_loc_2": "Shanghai",
+  "offline_datetime_2": "23:00, June 5 CST",
+  "offline_place_2": "130 Tianlin Road, Building 20, Xuhui District, Shanghai, China. (Kr Space Tianlinfang Community)",
+  
+  "sche_date0": "June 6",
+  "sche_summary0": "Whether you stayed up late to watch the live or not, listen to some thoughts on the WWDC23 Keynote.",
+  "sche_slot0_activity0": "Bilibili & WeChat live",
+  "sche_slot0_dateTime0": "20:00 - 21:30 CST",
+  "sche_slot0_topic0": "First impressions of WWDC23",
+  
+
+  "sche_date1": "June 7",
+  "sche_summary1": "Have you been excited by this year's various beta versions? How is your experience?",
+  "sche_slot0_activity1": "Bilibili & WeChat live",
+  "sche_slot0_dateTime1": "20:00 - 21:30 CST",
+  "sche_slot0_topic1": "Features and experiences of the new Beta",
+  
+  
+  "sche_date2": "June 8",
+  "sche_summary2": "Let's talk about the experiences playing with all the new releases anounced at WWDC23.",
+  "sche_slot0_activity2": "Bilibili & WeChat live",
+  "sche_slot0_dateTime2": "20:00 - 21:30 CST",
+  "sche_slot0_topic2": "New technologies, features and opportunities",
+  
+  
+  "sche_date3": "June 9",
+  "sche_summary3": "Let's talk about whether this year's 'one more thing' amazed you or not.",
+  "sche_slot0_activity3": "Bilibili & WeChat live",
+  "sche_slot0_dateTime3": "20:00 - 21:30 CST",
+  "sche_slot0_topic3": "Apple's one more thing",
+  
+
+  "sche_date4": "June 10",
+  "sche_summary4": "Let's discuss what we saw, what we used, what we thought of, what excited us, and what disappointed us.",
+  "sche_slot0_activity4": "Bilibili & WeChat live",
+  "sche_slot0_dateTime4": "20:00 - 21:30 CST",
+  "sche_slot0_topic4": "WWDC23 overview",
+
+  "speaker_label": "Speakers",
+  "speaker_slogan": "This year, these active speakers, contributors, educators and practitioners from Apple communities will share their impressions of WWDC23 with you (sorted alphabetically by last name).",
+
+  "daiming_name": "Ming Dai",
+  "daiming_desc": "iOS developer that's good at coding, paiting and wriing.",
+
+  "fufu_name": "Fu Fu (FF)",
+  "fufu_desc": "Host of the digital video channel: <i>芙芙灵机一动</i>.",
+
+  "guoyahang_name": "Yahang Guo",
+  "guoyahang_desc": "Creator of <i>平底锅揽件指南</i> and also responsible for an iOS wallpaper application called <i>Cuto</i>.",
+
+  "hezhenghao_name": "Zhenghao He",
+  "hezhenghao_desc": "Studying network security at BUPT. Winner of the Swift Student Challenge.",
+
+  "huangyishan_name": "Yishan Huang",
+  "huangyishan_desc": "The co-host of <i>weak self</i> podcast.",
+
+  "huojie_name": "Jay Huo",
+  "huojie_desc": "iOS developer, proficient in Python and Rust, currently working in Hong Kong at <i>Lalamove<i>, responsible for the driver-side iOS app.",
+
+  "panbohang_name": "Bohang Pan",
+  "panbohang_desc": "VR developer, the founder of the <i>VRplay</i> community, and a host on <i>IndieMatters</i> radio.",
+
+  "wangmengke_name": "Mengke Wang",
+  "wangmengke_desc": "I'm a developer, dog owner and I made an app called <i>好事发生</i>.",
+
+  "wutao_name": "Tao Wu",
+  "wutao_desc": "Currently pursuing a Ph.D. in AI. An indie developer, known for notable works such as <i>像素天气</i>, <i>Pixel 3D</i> and <i>AI Paper Writer</i>.",
+
+  "wuzhuoqiang_name": "Zhuoqiang Wu",
+  "wuzhuoqiang_desc": "<i>Sorted³</i> Co-founder. Experienced iOS and macOS engineer.",
+
+  "xuchenyang_name": "Chenyang Xu",
+  "xuchenyang_desc": "Editor and membership program producer at SSPAI.",
+
+  "xuhaifeng_name": "Haifeng Xu",
+  "xuhaifeng_desc": "I am an ARKit developer who love writing articles.",
+
+  "xuyang_name": "Yang Xu",
+  "xuyang_desc": "iOS devloper, blogger.",
+
+  "xiangyilin_name": "Yilin Xiang (Allen)",
+  "xiangyilin_desc": "Founder of a MR social game startup, an 8-year veteran player in VR who believes XR will change the world.",
+
+  "yingjunjiu_name": "JJ Ying",
+  "yingjunjiu_desc": "UI designer, pod cast of <i>Anyway.FM</i>",
+
+  "yuankai_name": "Kai Yuan",
+  "yuankai_desc": "Client side developer, firmly believing that XR will bring many exciting changes. Author of the book <i>Practical ARKit Development</i>.",
+
+  "zengyiying_name": "Yiying Zeng",
+  "zengyiying_desc": "iOS developer, co-host of <i>weak self</i> podcast.",
+
+  "zhangjiafu_name": "Jiafu Zhang (Joseph)",
+  "zhangjiafu_desc": "iOS indeveloper, creator of <i>ChatPDF (iOS)</i>, <i>AI 头像</i>、<i>语音合成助手</i>、<i>Anki 备忘录</i> and <i>生词本</i>.",
+
+  "zhangpeng_name": "Peng Zhang",
+  "zhangpeng_desc": "Indie developer, iOS developer works at <i>TikTok</i>.",
+
+  "zhangtao_name": "Tao Zhang",
+  "zhangtao_desc": "Founder of SSPAI. Sponsor of Tron developer support plan.",
+
+  "zhangyiyuan_name": "Yiyuan Zhang",
+  "zhangyiyuan_desc": "Editor and membership program producer at SSPAI.",
+
+  "zhaomingyi_name": "Mingyi Zhao",
+  "zhaomingyi_desc": "Editor in the IT industry for many years.",
+
+  "zhoukaiwen_name": "Kaiwen Zhou (Kevin)",
+  "zhoukaiwen_desc": "Creator of <i>小记</i>, <i>50音起源</i>, <i>捧读</i>. Writer of <i>PRODUCTER 让产品从 0 到 1</i>.",
+
+  "zhangyuchen_name": "Yuchen Zhang",
+  "zhangyuchen_desc": "AR developer, core developer of <i>HoloKit</i>",
+
+  "channels_label": "Channels",
+  "channels_label_desc": "This year, during WWDC23, we are offering not only nightly live streams but also offline meetups and online chat rooms for convenient technical discussions. Everyone is welcome to come and enjoy!",
+
+  "channel_bilibili": "Bilibili live 1",
+  "channel_bilibili_desc": "Start on June 8, 20:00 CST",
+
+  "channel_xr_wechat1": "Official WeChat",
+  "channel_xr_wechat_desc1": "Follow to learn about daily schedules",
+
+  "channel_tsalon_wechat": "Offical group",
+  "channel_tsalon_wechat_desc": "Enter 'wwdc23' to join the chat group",
+
+  "channel_xr_wechat": "Bilibili live 2",
+  "channel_xr_wechat_desc": "Start on June 8, 20:00 CST",
+
+  "sponsor_label": "Current partners for our activities",
+  "sponsor_desc": "Once again, WWDC23.playground will be FREE FOR ALL. This would not be possible without our amazing partners.",
+
+  "team_label": "Our team",
+  "team_desc": "If you have any questions, please feel free to contact us:",
+
+  "chenyizhou_name": "Yizhou Chen",
+  "chenyizhou_social": "https://github.com/IanIsMyUsername",
+  "chenyizhou_desc": "SwiftGG member",
+
+  "cuiyi_name": "Yi Cui (11)",
+  "cuiyi_social": "https://github.com/puretears",
+  "cuiyi_desc": "Creator of this website",
+
+  "mayiling_name": "Yiling Ma",
+  "mayiling_social": "",
+  "mayiling_desc": "Boxue co-founder",
+
+  "renyujie_name": "Yujie Ren",
+  "renyujie_social": "https://github.com/OneeMe",
+  "renyujie_desc": "XReality.Zone founder",
+
+  "xianghui_name": "Hui Xiang",
+  "xianghui_social": "https://github.com/Ryan-BetterMe",
+  "xianghui_desc": "SwiftGG member",
+
+  "xiaojianwei_name": "Jianwei Xiao",
+  "xiaojianwei_social": "https://github.com/hiETsang",
+  "xiaojianwei_desc": "SwiftGG member",
+
+  "yutielin_name": "Tielin Yu",
+  "yutielin_social": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NDIxOTA2MA==&action=getalbum&album_id=1614632007735541770&scene=173&from_msgid=2247488628&from_itemidx=1&count=3&nolastread=1#wechat_redirect",
+  "yutielin_desc": "",
+
+  "eyrefree_name": "EyreFree",
+  "eyrefree_social": "https://github.com/EyreFree",
+  "eyrefree_desc": "Open source enthusiasts",
+
+  "zhangsiqi_name": "Siqi Zhang",
+  "zhangsiqi_social": "https://github.com/SketchK",
+  "zhangsiqi_desc": "XReality.zone founder",
+
+  "zhangyangyang_name": "Yangyang Zhang",
+  "zhangyangyang_social": "",
+  "zhangyangyang_desc": "SwiftGG member",
+
+  "zhengyidong_name": "Yidong Zheng",
+  "zhengyidong_social": "https://github.com/mmoaay",
+  "zhengyidong_desc": "T-salon leader",
+
+  "staff_label": "Staff member",
+  "staff_desc": "Thanks to the following members of the conference committee for their hard work."
+}
